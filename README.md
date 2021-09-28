@@ -1,2 +1,2 @@
-# cpp-logistic-regression
-Logistic Regressionin C++
+# cpp-linear-regression
+Linear Regressionin C++
